@@ -1,3 +1,24 @@
+## 1️⃣ Admin Dashboard (React.js)
+
+🔗 **Live Demo:**  
+https://admin-dashboard-gamma-liard.vercel.app/
+
+### 📌 Description
+A responsive and interactive **Admin Dashboard** built using React.js, focused on data visualization and modular UI components.
+
+### ✨ Key Features
+- Dashboard layout with reusable React components  
+- Responsive design using modern CSS utilities  
+- Clean component hierarchy and state management  
+- Optimized UI for desktop and tablet views  
+
+### 🛠 Tech Stack
+- React.js  
+- JavaScript (ES6+)  
+- HTML5, CSS3  
+- Tailwind CSS  
+- Vercel (Deployment)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
